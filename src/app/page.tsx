@@ -61,7 +61,7 @@ export default function LandingPage() {
           handle: "@johnd",
           testimonial: "The best shave I've ever had. Truly a 777 experience.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/professional-hairdresser-sitting-barber-chair-waiting-customer_613910-3902.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/professional-hairdresser-sitting-barber-chair-waiting-customer_613910-3902.jpg?_wi=1",
           imageAlt: "barbershop interior luxury",
         },
         {
@@ -69,7 +69,7 @@ export default function LandingPage() {
           handle: "@miker",
           testimonial: "Precise fades and great atmosphere. Won't go anywhere else.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/from-hands-shaving-neck_23-2147778916.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/from-hands-shaving-neck_23-2147778916.jpg?_wi=1",
           imageAlt: "classic men haircut fade",
         },
         {
@@ -77,7 +77,7 @@ export default function LandingPage() {
           handle: "@alexs",
           testimonial: "Professional team and elite attention to detail. Highly recommended.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-man-getting-his-hair-washed_23-2148224418.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-man-getting-his-hair-washed_23-2148224418.jpg?_wi=1",
           imageAlt: "hot towel shave barber",
         },
         {
@@ -85,7 +85,7 @@ export default function LandingPage() {
           handle: "@chrisb",
           testimonial: "The gold standard of barbershops in the city.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/master-hairdresser-prepares-face-shaving-deals-foam_613910-4275.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/master-hairdresser-prepares-face-shaving-deals-foam_613910-4275.jpg?_wi=1",
           imageAlt: "beard trim precision grooming",
         },
         {
@@ -93,7 +93,7 @@ export default function LandingPage() {
           handle: "@davidw",
           testimonial: "Worth every penny. A proper premium service.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/positive-bearded-black-male-with-tattoo-cross-arms-dressed-white-shirt_613910-15917.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/positive-bearded-black-male-with-tattoo-cross-arms-dressed-white-shirt_613910-15917.jpg?_wi=1",
           imageAlt: "professional barber portrait",
         },
       ]}
@@ -103,7 +103,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/professional-hairdresser-sitting-barber-chair-waiting-customer_613910-3902.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/professional-hairdresser-sitting-barber-chair-waiting-customer_613910-3902.jpg?_wi=2"
       imageAlt="777 Barbershop luxury interior"
       avatars={[
         {
@@ -165,17 +165,17 @@ export default function LandingPage() {
         {
           title: "Precision Cut & Style",
           description: "Tailored haircuts designed to enhance your unique features.",
-          imageSrc: "http://img.b2bpic.net/free-photo/from-hands-shaving-neck_23-2147778916.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/from-hands-shaving-neck_23-2147778916.jpg?_wi=2",
         },
         {
           title: "Royal Hot Towel Shave",
           description: "An ultimate traditional shave experience with hot towels and premium oils.",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-man-getting-his-hair-washed_23-2148224418.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-man-getting-his-hair-washed_23-2148224418.jpg?_wi=2",
         },
         {
           title: "Beard Sculpting",
           description: "Expert beard grooming, line-ups, and moisturizing treatments.",
-          imageSrc: "http://img.b2bpic.net/free-photo/master-hairdresser-prepares-face-shaving-deals-foam_613910-4275.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/master-hairdresser-prepares-face-shaving-deals-foam_613910-4275.jpg?_wi=2",
         },
       ]}
       title="Our Signature Services"
@@ -194,7 +194,7 @@ export default function LandingPage() {
           id: "1",
           name: "Marco",
           role: "Master Barber",
-          imageSrc: "http://img.b2bpic.net/free-photo/positive-bearded-black-male-with-tattoo-cross-arms-dressed-white-shirt_613910-15917.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/positive-bearded-black-male-with-tattoo-cross-arms-dressed-white-shirt_613910-15917.jpg?_wi=2",
         },
         {
           id: "2",
